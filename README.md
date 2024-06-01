@@ -1,7 +1,7 @@
 # Cat vs Dog Image Classifier
 
 ## Project Overview
-This project aims to develop an image classification model that can classify images as either cats or dogs using deep learning techniques in Python. The project was undertaken as part of an internship at [Company Name].
+This project aims to develop an image classification model that can classify images as either cats or dogs using deep learning techniques in Python. The project was undertaken as part of an internship at Bharat Intern.
 
 ## Dataset
 The dataset used for this project is the "Dogs vs. Cats" dataset, which is publicly available on Kaggle. It consists of a large collection of images of cats and dogs labeled accordingly.
