@@ -43,13 +43,5 @@ To further improve the model, future work could explore:
 - Augmenting the training data with techniques like rotation, flipping, or zooming to improve model generalization.
 - Deploying the model as a web or mobile application for real-time classification tasks.
 
-## Getting Started
 
-### Prerequisites
-- Python 3.6 or higher
-- TensorFlow
-- Keras
-- Pandas
-- Matplotlib
-- Jupyter Notebook (optional)
 
